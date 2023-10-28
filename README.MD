@@ -1,4 +1,4 @@
-I have built a simple STL page loader using three.js v0.158.0
+# I have built a simple STL page loader using three.js v0.158.0
 
 Just clone repo and type "python -m http.server 8000" or "serve ."
 
